@@ -46,7 +46,7 @@ Further terms were included from:
 -https://github.com/uds-lsv/lexicon-of-abusive-words 
 -https://github.com/bgmartins/hate-speech-lexicons
 
-Topic specific terms:
+Topic-specific terms:
 - Right-wing terms: -https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen;                
 -https://www.belltower.news/rechtsextreme-sprachcodes-31230/
 https://www.belltower.news/rechtsextreme-sprachcodes-31230/ 
@@ -64,8 +64,7 @@ https://itg.nls.uk/wiki/LGBTQIA%2B_Slurs_and_Slang
 -https://en.wikipedia.org/wiki/Antisemitic_trope 
 -https://www.jewishtimes.com/the-etymology-of-hate-jewish-slurs/ 
 
-Racism:
-https://en.wikipedia.org/wiki/List_of_ethnic_slurs
+- Racism:https://en.wikipedia.org/wiki/List_of_ethnic_slurs
 -https://www.vielfalt-mediathek.de/wp-content/uploads/2020/12/jugendschutz.net_report_antiziganismus_online_vielfalt_mediathek.pdf
 -https://www.buergerundstaat.de/1_2_18/antiziganismus.pdf
 - Political topics/opinion: https://kompetenznetzwerk-hass-im-netz.de/wp-content/uploads/2023/09/Report_Hass_gegen_junge_Klimaaktivist_innen.pdf
