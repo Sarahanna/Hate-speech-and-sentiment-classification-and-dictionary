@@ -31,9 +31,9 @@ The file *ger-eng-youtube-comments* is structured as follows:
 On the other hand, we defined offensive language as “Comments which are insulting, toxic or hostile but are not exclusively directed towards protected groups.” 
 
 Examples: 
-“You are an Idiot” Offensive
-“I despise refugees” Hate Speech
-“I hate this” None
+“You are an Idiot” Offensive <br>
+“I despise refugees” Hate Speech <br>
+“I hate this” None <br>
 
 ##  Sources 
 The following sources were used to create the hate speech and offensive language dictionary. The basis was the hate speech dictionary Hurtlex which was available in both German and English and featured both offensive terms and hate speech:
