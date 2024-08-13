@@ -42,9 +42,9 @@ https://github.com/valeriobasile/hurtlex
 Further terms were included from:
   - https://hatebase.org/
  - https://www.noswearing.com/dictionary/x
--https://weaponizedword.org/lexicons 
--https://github.com/uds-lsv/lexicon-of-abusive-words 
--https://github.com/bgmartins/hate-speech-lexicons
+ - https://weaponizedword.org/lexicons 
+ - https://github.com/uds-lsv/lexicon-of-abusive-words 
+ - https://github.com/bgmartins/hate-speech-lexicons
 
 Topic-specific terms:
 - Right-wing terms: -https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen;                
