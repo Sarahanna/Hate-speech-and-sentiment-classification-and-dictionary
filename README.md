@@ -5,7 +5,7 @@ In the context of the DFG Financed project Tubework, we created a hate speech an
 
 # Ger-Eng-YouTube-Comments
 
-One issue of classifying hate speech comments is to find enough, of a big variety in the comments you are scraping. We opt for filtering half of the comments in our dataset by using a hate speech dictionary as described below. 
+One issue of classifying hate speech comments is to find enough relevant comments while scraping. We opt for filtering half of the comments in our dataset by using a hate speech dictionary as described below. 
 
 The material includes: <br>
 1.) A hate speech dictionary of German and English YouTube comments <br>
