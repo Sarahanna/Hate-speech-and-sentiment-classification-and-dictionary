@@ -1,4 +1,4 @@
-READ ME
+#READ ME
 
 In the context of the DFG Financed project Tubework, we created a hate speech and sentiment dataset. For more information you can visit our website here: https://www.uni-potsdam.de/de/sozialstrukturanalyse/index/forschung/tubework
   
