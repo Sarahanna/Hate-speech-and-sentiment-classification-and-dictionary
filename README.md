@@ -48,7 +48,7 @@ Further terms were included from:
 
 Topic-specific terms:
 - Right-wing terms:
--     https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen;                
+- https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen;                
 -https://www.belltower.news/rechtsextreme-sprachcodes-31230/
 https://www.belltower.news/rechtsextreme-sprachcodes-31230/ 
 -https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/500822/zahlencodes/
