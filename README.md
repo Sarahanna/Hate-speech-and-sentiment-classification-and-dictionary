@@ -17,7 +17,7 @@ Existing dictionaries often cover certain dimensions of discrimination and may n
 
 ##  2.) Dataset YouTube Comments
 
-These comments were drawn from a sample of 5000 content creators from German-speaking countries. Half of the comments were randomly selected, and the other half was filtered using the custom hate speech dictionary to capture a larger amount of hate speech. These comments have been classified by students from the University of Potsdam, which had received an extensive introduction to the annotation process. Every comment has a double coverage and if the coders disagreed, an expert from the project decided on the classification to achieve majority decisions. The annotation guidelines can be found here.
+These comments were drawn from a sample of 5000 content creators from German-speaking countries. Half of the comments were randomly selected, and the other half was filtered using the custom hate speech dictionary to capture a larger amount of hate speech. These comments have been classified by students from the University of Potsdam, which had received an extensive introduction to the annotation process. Every comment has a double coverage and if the coders disagreed, an expert from the project decided on the classification to achieve majority decisions. The annotation guidelines can be found in German under annotation-guidelines-german.
 
 The file *ger-eng-youtube-comments* is structured as follows:
 - sentiment: negative, neutral, positive
