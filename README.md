@@ -59,9 +59,9 @@ Topic-specific terms: <br>
 
 
 Further material: <br>
-https://hatespeechdata.com/
-https://www.amadeu-antonio-stiftung.de/digitale-zivilgesellschaft/was-ist-hate-speech/ 
-https://www.urbandictionary.com/ 
+https://hatespeechdata.com/ <br>
+https://www.amadeu-antonio-stiftung.de/digitale-zivilgesellschaft/was-ist-hate-speech/ <br>
+https://www.urbandictionary.com/ <br>
 
 
 
