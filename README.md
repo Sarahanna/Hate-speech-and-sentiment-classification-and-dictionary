@@ -30,7 +30,7 @@ The file *ger-eng-youtube-comments* is structured as follows:
 **Offensive language**: 
 On the other hand, we defined offensive language as “Comments which are insulting, toxic or hostile but are not exclusively directed towards protected groups.” 
 
-Examples: 
+Examples: <br>
 “You are an Idiot” Offensive <br>
 “I despise refugees” Hate Speech <br>
 “I hate this” None <br>
@@ -46,7 +46,7 @@ Further terms were included from:
  - https://github.com/uds-lsv/lexicon-of-abusive-words 
  - https://github.com/bgmartins/hate-speech-lexicons
 
-Topic-specific terms:
+Topic-specific terms: <br>
 - Right-wing terms:https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen; https://www.belltower.news/rechtsextreme-sprachcodes-31230/; https://www.belltower.news/rechtsextreme-sprachcodes-31230/; https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/500822/zahlencodes/
 - Digital platform terms: https://www.belltower.news/tiktok-und-algospeak-wie-gartenzwerge-die-grenzen-des-sagbaren-verschieben-154217/; https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027
 - Anti-queer terms: https://www.belltower.news/symbole-und-codes-queerfeindliche-narrative-und-dogwhistles-134233/; https://rationalwiki.org/wiki/TERF_glossary#; https://en.wikipedia.org/wiki/Category:LGBT-related_slurs; https://en.wikipedia.org/wiki/Category:Homophobic_slurs; https://itg.nls.uk/wiki/LGBTQIA%2B_Slurs_and_Slang 
@@ -58,7 +58,8 @@ Topic-specific terms:
 - Religious Slurs: https://en.wikipedia.org/wiki/List_of_religious_slurs 
 
 
-Further material: https://hatespeechdata.com/
+Further material: <br>
+https://hatespeechdata.com/
 https://www.amadeu-antonio-stiftung.de/digitale-zivilgesellschaft/was-ist-hate-speech/ 
 https://www.urbandictionary.com/ 
 
