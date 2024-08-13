@@ -47,7 +47,8 @@ Further terms were included from:
  - https://github.com/bgmartins/hate-speech-lexicons
 
 Topic-specific terms:
-- Right-wing terms: -https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen;                
+- Right-wing terms:
+-     https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen;                
 -https://www.belltower.news/rechtsextreme-sprachcodes-31230/
 https://www.belltower.news/rechtsextreme-sprachcodes-31230/ 
 -https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/500822/zahlencodes/
