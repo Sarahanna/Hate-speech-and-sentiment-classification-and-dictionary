@@ -69,8 +69,7 @@ https://itg.nls.uk/wiki/LGBTQIA%2B_Slurs_and_Slang
 -https://www.buergerundstaat.de/1_2_18/antiziganismus.pdf
 - Political topics/opinion: https://kompetenznetzwerk-hass-im-netz.de/wp-content/uploads/2023/09/Report_Hass_gegen_junge_Klimaaktivist_innen.pdf
 https://en.wikipedia.org/wiki/List_of_political_slogans
-Swearwords: 
-https://www.freewebheaders.com/german-swear-words-list-and-bad-words-free-download/
+- Swearwords: https://www.freewebheaders.com/german-swear-words-list-and-bad-words-free-download/
 https://www.freewebheaders.com/youtube-blacklist-words-free-and-youtube-comment-moderation/
 https://vidalingua.com/englische-schimpfworter
 - Class-related terms: https://en.wikipedia.org/wiki/Category:Class-related_slurs
