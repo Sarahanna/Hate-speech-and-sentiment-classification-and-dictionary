@@ -40,7 +40,7 @@ The following sources were used to create the hate speech and offensive language
 https://github.com/valeriobasile/hurtlex 
 
 Further terms were included from:
-    - https://hatebase.org/
+ - https://hatebase.org/
  - https://www.noswearing.com/dictionary/x
  - https://weaponizedword.org/lexicons 
  - https://github.com/uds-lsv/lexicon-of-abusive-words 
@@ -58,7 +58,7 @@ Topic-specific terms:
 - Religious Slurs: https://en.wikipedia.org/wiki/List_of_religious_slurs 
 
 
-Further material:https://hatespeechdata.com/
+Further material: https://hatespeechdata.com/
 https://www.amadeu-antonio-stiftung.de/digitale-zivilgesellschaft/was-ist-hate-speech/ 
 https://www.urbandictionary.com/ 
 
