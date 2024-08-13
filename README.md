@@ -47,11 +47,7 @@ Further terms were included from:
  - https://github.com/bgmartins/hate-speech-lexicons
 
 Topic-specific terms:
-1.)  Right-wing terms:
-  - https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen;                
-  -https://www.belltower.news/rechtsextreme-sprachcodes-31230/
-  - https://www.belltower.news/rechtsextreme-sprachcodes-31230/ 
-  -https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/500822/zahlencodes/
+- Right-wing terms:https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen; https://www.belltower.news/rechtsextreme-sprachcodes-31230/; https://www.belltower.news/rechtsextreme-sprachcodes-31230/; https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/500822/zahlencodes/
   - Digital platform terms: https://www.belltower.news/tiktok-und-algospeak-wie-gartenzwerge-die-grenzen-des-sagbaren-verschieben-154217/
   -https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027
 
