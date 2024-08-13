@@ -76,22 +76,14 @@ https://vidalingua.com/englische-schimpfworter
 - Class-related terms: https://en.wikipedia.org/wiki/Category:Class-related_slurs
 https://www.merriam-webster.com/wordplay/10-words-for-the-elitists-in-your-life
 https://www.reddit.com/r/dndnext/comments/dbj5ut/insults_for_wealthy_characters/
-Religious Slurs: 
-https://en.wikipedia.org/wiki/List_of_religious_slurs 
+Religious Slurs: https://en.wikipedia.org/wiki/List_of_religious_slurs 
 
 
 
-
-https://en.wiktionary.org/wiki/Wiktionary:Main_Page 
-file:///C:/Users/Roland%20Verwiebe/Downloads/annotation_guideline.html 
-
-
-
-https://arxiv.org/abs/2012.10289 (hate xplain
-
-allgemeine Referenzen: https://www.amadeu-antonio-stiftung.de/digitale-zivilgesellschaft/was-ist-hate-speech/ 
+further material:https://hatespeechdata.com/
+https://www.amadeu-antonio-stiftung.de/digitale-zivilgesellschaft/was-ist-hate-speech/ 
 https://www.urbandictionary.com/ 
-https://hatespeechdata.com/
+
 
 
 
