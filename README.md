@@ -17,12 +17,12 @@ Existing dictionaries often cover a limited range of topics and may not be avail
 
 ##  2.) Dataset YouTube Comments
 
-These comments were drawn from a sample of 5000 content creators from German-speaking countries. Half of the comments were randomly selected, the other half was filtered using the custom hate speech dictionary to capture a larger amount of hate speech. These comments have been classified by students from the University of Potsdam, which had received an extensive introduction to the annotation process. Every comment has a double coverage and if the coders disagreed, an expert from the project decided on the classification to achieve majority decisions. The annotation guidelines can be found here.
+These comments were drawn from a sample of 5000 content creators from German-speaking countries. Half of the comments were randomly selected, and the other half was filtered using the custom hate speech dictionary to capture a larger amount of hate speech. These comments have been classified by students from the University of Potsdam, which had received an extensive introduction to the annotation process. Every comment has a double coverage and if the coders disagreed, an expert from the project decided on the classification to achieve majority decisions. The annotation guidelines can be found here.
 
-The file *ger-eng-youtube-comments* is structured as followed:
+The file *ger-eng-youtube-comments* is structured as follows:
 - sentiment: negative, neutral, positive
 - hate_speech: none, off, hate
-- language: emoticon, english, german
+- language: emoticon, English, German
 - content: raw YouTube comment
 
 **Hate speech** is defined as: “Any behaviour that incites violence or hatred against (i) individuals or (ii) a group of individuals or a member defined by reference to race, colour, religion, descent or national or ethnic origin,  gender, sexual orientation, political opinion or makes false allegations.”
@@ -40,8 +40,8 @@ The following sources were used to create the hate speech and offensive language
 https://github.com/valeriobasile/hurtlex 
 
 Further terms were included from:
--https://hatebase.org/
--https://www.noswearing.com/dictionary/x
+  - https://hatebase.org/
+ - https://www.noswearing.com/dictionary/x
 -https://weaponizedword.org/lexicons 
 -https://github.com/uds-lsv/lexicon-of-abusive-words 
 -https://github.com/bgmartins/hate-speech-lexicons
