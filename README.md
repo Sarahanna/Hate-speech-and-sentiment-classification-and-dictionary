@@ -1,5 +1,7 @@
 #READ ME
 
+You can cite this repository here:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13741193.svg)](https://doi.org/10.5281/zenodo.13741193)
+
 In the context of the DFG Financed project Tubework, we created a hate speech and sentiment dataset. For more information you can visit our website here: https://www.uni-potsdam.de/de/sozialstrukturanalyse/index/forschung/tubework
   
 
